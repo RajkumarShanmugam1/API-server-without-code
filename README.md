@@ -9,6 +9,7 @@
 ### Requirements :
 - Node.js
 - Git
+- Post Man
 
 ### Setup local environment :
 - Create a new folder or project with the name `API-Server-Without-Code`.
@@ -49,5 +50,11 @@
   }
   ```
 
+### Deploy on local :
 - Now, start the application by running the npm start command from the command line.
-- http://localhost:3000/user
+- open http://localhost:3000/users or http://localhost:3000/Collection_Name
+  ![image](https://github.com/RajkumarShanmugam1/API-server-without-code/assets/76644058/069e40fb-4df3-4f08-8a36-4a6701e30802)
+- 
+
+
+### Deploy on githup:
