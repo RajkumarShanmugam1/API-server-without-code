@@ -3,7 +3,7 @@
 ## How to easily create and host your own REST API without writing a single line of code ?
 - We will see how to easily create your own REST API server to be accessible on the internet without coding and without the need of hosting it on any hosting provider.
 
-### Important :
+### Important
 - This concept is only used for `get` operation or `display` functionallity.
 
 ### Requirements :
