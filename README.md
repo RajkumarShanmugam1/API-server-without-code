@@ -61,6 +61,6 @@
 - First create one repository on the githup.
 - After push the folder into the correspond repository.
 - https://my-json-server.typicode.com/GIT_USER_NAME/REPOSITORY_NAME
-  Eg : https://my-json-server.typicode.com/RajkumarShanmugam1/API-server-without-code
+  - Eg : https://my-json-server.typicode.com/RajkumarShanmugam1/API-server-without-code
   ![image](https://github.com/RajkumarShanmugam1/API-server-without-code/assets/76644058/5edfdc97-49ed-477e-a311-d836b23f29ee)
 
